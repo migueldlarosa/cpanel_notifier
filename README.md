@@ -25,7 +25,7 @@ Al correr el script se te mostrara una pequeña tabla con todos tus dominios y l
 
 ## Screenshots
 
-![Screenshot de la tabla]()
+![Screenshot de la tabla](/screenshots/cpanel-dd-bw.png?raw=true "Tabla")
 
 ## Aviso
 
